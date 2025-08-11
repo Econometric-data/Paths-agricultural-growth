@@ -12,7 +12,7 @@ The project is organized into the following main directories:
 This directory contains the Python code used to generate the graphs.
 
 * **`Graphs.ipynb`**: A Jupyter Notebook file containing the Python code for data visualization and graph creation.
-
+* **`MT to MS GDP.ipynb`**: A Jupyter Notebook file containing the Python code for plot the GDP for Mato Grosso and Mato Grosso do Sul.
 ---
 
 ### `Data and Regression Analysis`
