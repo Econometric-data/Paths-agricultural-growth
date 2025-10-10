@@ -19,6 +19,7 @@ This directory contains the Python code used to generate to make descriptive sta
 This directory contains the Python code used to generate the graphs so as the data used in the plots.
 
 * **`Graphs.ipynb`**: A Jupyter Notebook file containing the Python code for data visualization and graph creation.
+* **`Mato Grosso - Immediate Regions.ipynb`**: A Jupyter Notebook file containing the Python code for plot the inset map that locates the Immediate Regions of Mato Grosso.
 * **`MT to MS GDP.ipynb`**: A Jupyter Notebook file containing the Python code for plot the GDP for Mato Grosso and Mato Grosso do Sul.
 ---
 
