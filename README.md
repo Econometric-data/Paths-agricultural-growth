@@ -8,6 +8,13 @@ This repository contains the code and data used for analyzing economic data, inc
 
 The project is organized into the following main directories:
 
+### `Descriptive data`
+This directory contains the Python code used to generate to make descriptive statistics.
+
+* **`Description of data.ipynb`**: A Jupyter Notebook file containing the Python code for the statistics.
+
+---
+
 ### `Graphs`
 This directory contains the Python code used to generate the graphs so as the data used in the plots.
 
@@ -15,7 +22,7 @@ This directory contains the Python code used to generate the graphs so as the da
 * **`MT to MS GDP.ipynb`**: A Jupyter Notebook file containing the Python code for plot the GDP for Mato Grosso and Mato Grosso do Sul.
 ---
 
-### `Data and Regression Analysis`
+### `Regression Analysis`
 This directory holds the data files and Stata do-files used for regression analysis.
 
 * **`Chow Test for Kandir Law.do`**: Stata do-file for performing a Chow Test related to the Kandir Law analysis.
@@ -24,6 +31,7 @@ This directory holds the data files and Stata do-files used for regression analy
 * **Data Files**: This folder also contains the necessary data files used by the Stata do-files.
 
 ---
+
 
 ### How to Use This Repository
 
