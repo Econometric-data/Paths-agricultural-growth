@@ -21,8 +21,13 @@ This directory contains the Python code used to generate the graphs so as the da
 * **`Graphs.ipynb`**: A Jupyter Notebook file containing the Python code for data visualization and graph creation.
 * **`Mato Grosso - Immediate Regions.ipynb`**: A Jupyter Notebook file containing the Python code for plot the inset map that locates the Immediate Regions of Mato Grosso.
 * **`MT to MS GDP.ipynb`**: A Jupyter Notebook file containing the Python code for plot the GDP for Mato Grosso and Mato Grosso do Sul.
+* **`Spatial models.ipynb`**: A Jupyter Notebook file containing the Python code for make the Spatial Durbim Model and the Spatial Lag of X Geographical Weightned Regression.
 ---
 
+### `MT_Municipios_2022`, `MT_RG_Imediatas_2024` and `BR_UF_2024`
+These directories contain the shapefiles for cities, Immediate Regions in Mato Grosso and for Brazil, respectively.
+
+---
 ### `Regression Analysis`
 This directory holds the data files and Stata do-files used for regression analysis.
 
